@@ -38,7 +38,7 @@ ok: [127.0.0.1] => {
 }
 ```
 
-## It works if:
+## It works as intended if:
 
 - the variable is in the playbook
 - the variable in in `hosts_vars` or `group_vars`
