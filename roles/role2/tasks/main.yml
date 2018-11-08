@@ -1,0 +1,5 @@
+---
+- debug:
+    msg: "var: [{{ var }}]"
+- include_role:
+    name: role3
