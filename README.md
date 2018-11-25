@@ -44,3 +44,8 @@ ok: [127.0.0.1] => {
 - the variable in in `hosts_vars` or `group_vars`
 - if the playbook uses `import_role`
 - if the playbook uses `roles:` instead of `tasks:`
+
+## Update 2018.11.25
+
+Marked as duplicate
+https://github.com/ansible/ansible/issues/48371#issuecomment-437137408
